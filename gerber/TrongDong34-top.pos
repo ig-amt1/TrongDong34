@@ -1,0 +1,24 @@
+### Module positions - created on Sun Jul 31 11:57:27 2022 ###
+### Printed by Pcbnew version (6.0.5)
+## Unit = mm, Angle = deg
+## Side : top
+# Ref     Val         Package                PosX       PosY       Rot  Side
+U1        xiao-ble    xiao-ble-tht       117.8200   -51.8160    0.0000  top
+K1        diode-choc  pg1350-DR           27.0800   -46.0800    0.0000  top
+K2        diode-choc  pg1350-DR           45.0800   -34.0800    0.0000  top
+K3        diode-choc  pg1350-DR           63.0800   -27.0800    0.0000  top
+K4        diode-choc  pg1350-DR           81.0800   -32.5800    0.0000  top
+K5        diode-choc  pg1350-DR           99.0800   -35.0800    0.0000  top
+K6        diode-choc  pg1350-DR           27.0800   -63.0800    0.0000  top
+K7        diode-choc  pg1350-DR           45.0800   -51.0540    0.0000  top
+K8        diode-choc  pg1350-DR           63.0800   -44.1960    0.0000  top
+K9        diode-choc  pg1350-DR           81.0800   -49.5300    0.0000  top
+K10       diode-choc  pg1350-DR           99.0600   -52.0700    0.0000  top
+K11       diode-choc  pg1350-DR           27.0800   -80.0800    0.0000  top
+K12       diode-choc  pg1350-DR           45.0800   -68.0720    0.0000  top
+K13       diode-choc  pg1350-DR           63.0800   -61.2140    0.0000  top
+K14       diode-choc  pg1350-DR           81.0800   -66.5480    0.0000  top
+K15       diode-choc  pg1350-DR           99.0600   -69.0880    0.0000  top
+K16       diode-choc  pg1350-DR           92.1000   -78.3000  165.0000  top
+K17       diode-choc  pg1350-DR          111.8600   -86.4500  150.0000  top
+## End
